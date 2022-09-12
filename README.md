@@ -1,4 +1,11 @@
-![Header Image, Gabriel Aldous - Computer Science Student](/images/Simple Technology LinkedIn Banner.png)
+<img 
+    src="/images/Simple Technology LinkedIn Banner.png"
+    alt="Header Image, Gabriel Aldous - Computer Science Student"
+    style="
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 95%;">
 
 I'm Gabriel, a computer science student in his senior year at the University of Florida. 
 My interests lie in C++, Unity/Unreal and Web development.
