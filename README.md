@@ -23,7 +23,7 @@ Unity
 
 # 📊 GitHub Stats
 
-| <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" /></a> |
+| <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" style="height: 100%;" /></a> |
 | ------------- | ------------- |
 
 # 📫 Connect With Me
