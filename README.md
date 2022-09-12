@@ -24,10 +24,14 @@ Unity
 # 📊 GitHub Stats
 
 <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/Sn00pyW00dst0ck/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
+  <img 
+    align="right" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
 </a>
 
 # 📫 Connect With Me
