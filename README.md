@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This page is curently being updated. Check back soon to see what's changed!
+
 <!--
 **Sn00pyW00dst0ck/Sn00pyW00dst0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
