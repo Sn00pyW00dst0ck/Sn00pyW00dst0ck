@@ -23,19 +23,7 @@ Unity
 
 # 📊 GitHub Stats
 
-<div
-    style="
-        display:flex;
-        ">
-    <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
-    </a>
-    <a href="https://github.com/Sn00pyW00dst0ck/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
-    </a>
-</div>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" /></a> |
 | ------------- | ------------- |
 
 # 📫 Connect With Me
