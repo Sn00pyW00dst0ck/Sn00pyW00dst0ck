@@ -28,3 +28,9 @@ Unity
 
 # 📫 Connect With Me
 
+<a href="https://www.linkedin.com/in/gabriel-aldous/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="60" style="vertical-align: top; margin: 6px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100063400883969">
+    <img src="https://www.flaticon.com/free-icon/facebook_124010" height="60" />
+</a>
