@@ -8,7 +8,7 @@
         width: 95%;"
     />
 
-<p style="text-align: center;">
+<p align="center">
     I'm Gabriel, a computer science student in his senior year at the University of Florida. 
     My interests lie in C++, Unity/Unreal and Web development.
 </p>
