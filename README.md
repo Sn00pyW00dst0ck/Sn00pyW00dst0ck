@@ -13,17 +13,17 @@ My interests lie in C++, Unity/Unreal and Web development.
 
 # 🎯 Technical Skill Set
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 50px; margin: 5px; vertical-align: top"/>
-<img align="center" src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="HTML" style="height: 50px; margin: 5px; vertical-align: top"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" style="height: 50px; margin: 5px; vertical-align: top"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript" style="height: 50px; margin: 5px; vertical-align: top"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.JS" style="height: 50px; margin: 5px; vertical-align: top"/>
-
-JavaScript, HTML, CSS
+<p align="center">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 50px; margin: 5px; vertical-align: top"/>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" style="height: 50px; margin: 5px; vertical-align: top"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" style="height: 50px; margin: 5px; vertical-align: top"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript" style="height: 50px; margin: 5px; vertical-align: top"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.JS" style="height: 50px; margin: 5px; vertical-align: top"/>
+</p>
 
 # 👨‍💻 Technologies I'm Learning
 
-Unity
+React, Unity
 
 # 🔧 Currently Working On
 
