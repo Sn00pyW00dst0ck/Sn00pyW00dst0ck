@@ -1,31 +1,21 @@
-### Hi there 👋
+![Header Image, Gabriel Aldous - Computer Science Student](/images/Simple Technology LinkedIn Banner.png)
 
 I'm Gabriel, a computer science student in his senior year at the University of Florida. 
 My interests lie in C++, Unity/Unreal and Web development.
 
-# 🎯 My Skill Set
+# 🎯 Technical Skill Set
+
+C++, JavaScript, HTML, CSS
 
 # 👨‍💻 Technologies I'm Learning
 
-
+Unity
 
 # 🔧 Currently Working On
 
 # 📊 GitHub Stats
 
-# 🔗 Connect With Me
+![Sn00pyW00dst0ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true)
 
-<!--
-**Sn00pyW00dst0ck/Sn00pyW00dst0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📫 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
