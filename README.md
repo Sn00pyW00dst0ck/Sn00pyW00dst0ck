@@ -9,7 +9,7 @@
 
 <p align="center">
     <code>
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 60px; margin: 10px; vertical-align: top"/>
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 30px;"/>
     </code>
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" style="height: 60px; margin: 10px; vertical-align: top"/>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" style="height: 60px; margin: 10px; vertical-align: top"/>
