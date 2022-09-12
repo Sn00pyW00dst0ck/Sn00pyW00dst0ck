@@ -23,16 +23,18 @@ Unity
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats">
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
-</a>
-<a href="https://github.com/Sn00pyW00dst0ck/convoychat">
-  <img 
-    align="right" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
-</a>
+<div
+    style="
+        display:flex;
+        ">
+    <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
+    </a>
+    <a href="https://github.com/Sn00pyW00dst0ck/convoychat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
+    </a>
+</div>
+
 
 # 📫 Connect With Me
 
