@@ -1,22 +1,16 @@
-<img 
-    src="/images/Simple Technology LinkedIn Banner.png"
-    alt="Header Image, Gabriel Aldous - Computer Science Student"
-    style="
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 100%;"
-    />
+<img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    I'm Gabriel, a computer science student in his senior year at the University of Florida. 
+    Hello there! I'm Gabriel, a computer science student in his senior year at the University of Florida. 
     My interests lie in C++, Unity/Unreal and Web development.
 </p>
 
 # 🎯 Technical Skill Set
 
 <p align="center">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <code>
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 60px; margin: 10px; vertical-align: top"/>
+    </code>
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" style="height: 60px; margin: 10px; vertical-align: top"/>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" style="height: 60px; margin: 10px; vertical-align: top"/>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript" style="height: 60px; margin: 10px; vertical-align: top"/>
