@@ -24,7 +24,10 @@ My interests lie in C++, Unity/Unreal and Web development.
 
 # 👨‍💻 Technologies I'm Learning
 
-React, Unity
+<p align="center">
+    <img align="center" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab.png" alt="Unity" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" style="height: 60px; margin: 10px; vertical-align: top"/>
+</p>
 
 # 🔧 Currently Working On
 
