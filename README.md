@@ -8,8 +8,10 @@
         width: 95%;"
     />
 
-I'm Gabriel, a computer science student in his senior year at the University of Florida. 
-My interests lie in C++, Unity/Unreal and Web development.
+<p style="text-align: center;">
+    I'm Gabriel, a computer science student in his senior year at the University of Florida. 
+    My interests lie in C++, Unity/Unreal and Web development.
+</p>
 
 # 🎯 Technical Skill Set
 
