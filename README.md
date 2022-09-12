@@ -23,14 +23,13 @@ Unity
 
 # 📊 GitHub Stats
 
-![Sn00pyW00dst0ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true)
 <img
     src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true"
     alt="Sn00pyW00dst0ck's GitHub stats"
     style="align: left;"
     />
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact"
     alt="Sn00pyW00dst0ck's Top Languages"
     style="align: right;"
     />
