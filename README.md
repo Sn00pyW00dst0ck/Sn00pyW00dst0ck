@@ -23,16 +23,12 @@ Unity
 
 # 📊 GitHub Stats
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true"
-    alt="Sn00pyW00dst0ck's GitHub stats"
-    style="align: left;"
-    />
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact"
-    alt="Sn00pyW00dst0ck's Top Languages"
-    style="align: right;"
-    />
+<a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=algolia&show_icons=true" />
+</a>
+<a href="https://github.com/Sn00pyW00dst0ck/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=angolia&layout=compact" />
+</a>
 
 # 📫 Connect With Me
 
