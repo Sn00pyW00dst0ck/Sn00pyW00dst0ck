@@ -8,44 +8,22 @@
 # 🎯 Technical Skill Set
 
 <p align="center">
-    <code>
-        <a href="https://isocpp.org/"><img src="/images/cpp.svg" alt="C++" height="25"/><p>C++</p></a>
-    </code>
-    <code>
-        <a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="25"/><p>HTML</p></a>
-    </code>
-    <code>
-        <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="25"/><p>CSS</p></a>
-    </code>
-    <code>
-        <a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="25"/><p>JavaScript</p></a>
-    </code>
-    <code>
-        <a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="25"/><p>VS Code</p></a>
-    </code>
-    <code>
-        <a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="25"/><p>Visual Studio</p></a>
-    </code>
-    <code>
-        <a href="https://www.jetbrains.com/clion/"><img src="/images/Clion.png" alt="CLion" height="25"/><p>CLion</p></a>
-    </code>
-    <code>
-        <a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="25"/><p>GitHub</p></a>
-    </code>
+    <code><a href="https://isocpp.org/"><img src="/images/cpp.svg" alt="C++" height="25"/></a></code>
+    <code><a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="25"/></a></code>
+    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="25"/><a><code>
+    <code><a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="25"/></a></code>
+    <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="25"/></a></code>
+    <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="25"/></a></code>
+    <code><a href="https://www.jetbrains.com/clion/"><img src="/images/Clion.png" alt="CLion" height="25"/></a></code>
+    <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="25"/></a></code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
 
 <p align="center">
-    <code>
-        <a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="25"/><p>Unity</p></a>
-    </code>
-    <code>
-        <a href="https://reactjs.org/"><img src="/images/react.svg" alt="React" height="25"/><p>React</p></a>
-    </code>
-    <code>
-        <a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="25"/><p>Linux</p></a>
-    </code>
+    <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="25"/></a></code>
+    <code><a href="https://reactjs.org/"><img src="/images/react.svg" alt="React" height="25"/></a></code>
+    <code><a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="25"/></a></code>
 </p>
 
 # 🔧 Currently Working On
