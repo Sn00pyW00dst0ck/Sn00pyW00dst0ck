@@ -8,7 +8,7 @@
 # 🎯 Technical Skill Set
 
 <p align="center">
-    <code>
+    <code align="center">
         <img src="/images/cpp.svg" alt="C++" height="25"/>
     </code>
     <code>
