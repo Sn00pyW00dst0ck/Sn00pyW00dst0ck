@@ -8,22 +8,22 @@
 # 🎯 Technical Skill Set
 
 <p align="center">
-    <code><a href="https://isocpp.org/"><img src="/images/cpp.svg" alt="C++" height="25"/></a></code>
-    <code><a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="25"/></a></code>
-    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="25"/></a></code>
-    <code><a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="25"/></a></code>
-    <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="25"/></a></code>
-    <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="25"/></a></code>
-    <code><a href="https://www.jetbrains.com/clion/"><img src="/images/Clion.png" alt="CLion" height="25"/></a></code>
-    <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="25"/></a></code>
+    <code><a href="https://isocpp.org/"><img src="/images/cpp.svg" alt="C++" height="35"/></a></code>
+    <code><a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="35"/></a></code>
+    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="35"/></a></code>
+    <code><a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="35"/></a></code>
+    <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="35"/></a></code>
+    <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="35"/></a></code>
+    <code><a href="https://www.jetbrains.com/clion/"><img src="/images/Clion.png" alt="CLion" height="35"/></a></code>
+    <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="35"/></a></code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
 
 <p align="center">
-    <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="25"/></a></code>
-    <code><a href="https://reactjs.org/"><img src="/images/react.svg" alt="React" height="25"/></a></code>
-    <code><a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="25"/></a></code>
+    <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="35"/></a></code>
+    <code><a href="https://reactjs.org/"><img src="/images/react.svg" alt="React" height="35"/></a></code>
+    <code><a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="35"/></a></code>
 </p>
 
 # 🔧 Currently Working On
@@ -37,11 +37,11 @@
 
 <code>
     <a href="https://www.linkedin.com/in/gabriel-aldous/">
-        <img src="/images/linkedin.svg" height="25"/><p>Linked In</p>
+        <img src="/images/linkedin.svg" height="35"/><p>Linked In</p>
     </a>
 </code>
 <code>
     <a href="https://www.facebook.com/profile.php?id=100063400883969">
-        <img src="" height="25" /><p>Facebook</p>
+        <img src="" height="35" /><p>Facebook</p>
     </a>
 </code>
