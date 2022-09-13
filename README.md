@@ -9,21 +9,40 @@
 
 <p align="center">
     <code>
-        <img align="center" src="/images/cpp.svg" alt="C++" style="height: 30px;"/>
+        <img align="center" src="/images/cpp.svg" alt="C++" style="height: 30;"/>
     </code>
-    <img align="center" src="/images/html5.svg" alt="HTML" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/css.svg" alt="CSS" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/javascript.svg" alt="JavaScript" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/vscode.png" alt="VS Code" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/github.svg" alt="GitHub" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <code>
+        <img align="center" src="/images/html5.svg" alt="HTML" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/css.svg" alt="CSS" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/javascript.svg" alt="JavaScript" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/vscode.png" alt="VS Code" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/visualstudio.png" alt="VS Code" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/github.svg" alt="GitHub" style="height: 30;"/>
+    </code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
 
 <p align="center">
-    <img align="center" src="/images/unity.svg" alt="Unity" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/react.svg" alt="React" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="/images/linux.svg" alt="Linux" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <code>
+        <img align="center" src="/images/unity.svg" alt="Unity" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/react.svg" alt="React" style="height: 30;"/>
+    </code>
+    <code>
+        <img align="center" src="/images/linux.svg" alt="Linux" style="height: 30;"/>
+    </code>
 </p>
 
 # 🔧 Currently Working On
@@ -35,9 +54,13 @@
 
 # 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/gabriel-aldous/">
-    <img src="" height="60" style="vertical-align: top; margin: 6px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100063400883969">
-    <img src="" height="60" />
-</a>
+<code>
+    <a href="https://www.linkedin.com/in/gabriel-aldous/">
+        <img src="/images/linkedin.svg" height="60" style="height=20;" /><p>Linked In</p>
+    </a>
+</code>
+<code>
+    <a href="https://www.facebook.com/profile.php?id=100063400883969">
+        <img src="" height="60" /><p>Facebook</p>
+    </a>
+</code>
