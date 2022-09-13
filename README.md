@@ -9,21 +9,21 @@
 
 <p align="center">
     <code>
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height: 30px;"/>
+        <img align="center" src="/images/cpp.svg" alt="C++" style="height: 30px;"/>
     </code>
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.JS" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/html5.svg" alt="HTML" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/css.svg" alt="CSS" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/javascript.svg" alt="JavaScript" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/vscode.png" alt="VS Code" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/github.svg" alt="GitHub" style="height: 60px; margin: 10px; vertical-align: top"/>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
 
 <p align="center">
-    <img align="center" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab.png" alt="Unity" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" style="height: 60px; margin: 10px; vertical-align: top"/>
-    <img align="center" src="https://linuxfoundation.org/wp-content/uploads/linux.svg" alt="Linux" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/unity.svg" alt="Unity" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/react.svg" alt="React" style="height: 60px; margin: 10px; vertical-align: top"/>
+    <img align="center" src="/images/linux.svg" alt="Linux" style="height: 60px; margin: 10px; vertical-align: top"/>
 </p>
 
 # 🔧 Currently Working On
