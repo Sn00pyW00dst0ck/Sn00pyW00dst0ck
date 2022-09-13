@@ -9,25 +9,25 @@
 
 <p align="center">
     <code>
-        <img align="center" src="/images/cpp.svg" alt="C++" height="30"/>
+        <img src="/images/cpp.svg" alt="C++" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/html5.svg" alt="HTML" height="30"/>
+        <img src="/images/html5.svg" alt="HTML" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/css.svg" alt="CSS" height="30"/>
+        <img src="/images/css.svg" alt="CSS" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/javascript.svg" alt="JavaScript" height="30"/>
+        <img src="/images/javascript.svg" alt="JavaScript" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/vscode.png" alt="VS Code" height="30"/>
+        <img src="/images/vscode.png" alt="VS Code" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/visualstudio.png" alt="VS Code" height="30"/>
+        <img src="/images/visualstudio.png" alt="VS Code" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/github.svg" alt="GitHub" height="30"/>
+        <img src="/images/github.svg" alt="GitHub" height="30"/>
     </code>
 </p>
 
@@ -35,13 +35,13 @@
 
 <p align="center">
     <code>
-        <img align="center" src="/images/unity.svg" alt="Unity" height="30"/>
+        <img src="/images/unity.svg" alt="Unity" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/react.svg" alt="React" height="30"/>
+        <img src="/images/react.svg" alt="React" height="30"/>
     </code>
     <code>
-        <img align="center" src="/images/linux.svg" alt="Linux" height="30"/>
+        <img src="/images/linux.svg" alt="Linux" height="30"/>
     </code>
 </p>
 
