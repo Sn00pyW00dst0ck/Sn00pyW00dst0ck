@@ -5,6 +5,8 @@
     My interests lie in C++, Unity/Unreal and Web development.
 </p>
 
+# 🔧 Currently Working On
+
 # 🎯 Technical Skill Set
 
 <p align="center">
@@ -30,3 +32,16 @@
 
 | <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sn00pyW00dst0ck&theme=vue&show_icons=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/Sn00pyW00dst0ck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn00pyW00dst0ck&theme=vue&layout=compact" /></a> |
 | ------------- | ------------- |
+
+# 📫 Connect With Me
+
+<code>
+    <a href="https://www.linkedin.com/in/gabriel-aldous/">
+        <img src="/images/linkedin.svg" height="35"/><p>Linked In</p>
+    </a>
+</code>
+<code>
+    <a href="https://www.facebook.com/profile.php?id=100063400883969">
+        <img src="" height="35" /><p>Facebook</p>
+    </a>
+</code>
