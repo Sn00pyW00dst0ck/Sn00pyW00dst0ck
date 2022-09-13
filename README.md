@@ -10,7 +10,7 @@
 <p align="center">
     <code><a href="https://isocpp.org/"><img src="/images/cpp.svg" alt="C++" height="25"/></a></code>
     <code><a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="25"/></a></code>
-    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="25"/></a><code>
+    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="25"/></a></code>
     <code><a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="25"/></a></code>
     <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="25"/></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="25"/></a></code>
