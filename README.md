@@ -50,5 +50,4 @@
 
 <p align="center">
     <code><a href="https://www.linkedin.com/in/gabriel-aldous/"><img src="/images/linkedin.svg" height="35"/></a></code>
-    <code><a href="https://www.facebook.com/profile.php?id=100063400883969"><img src="" height="35" /></a></code>
 </p>
