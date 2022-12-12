@@ -36,13 +36,7 @@
 
 # 📫 Connect With Me
 
-<code>
-    <a href="https://www.linkedin.com/in/gabriel-aldous/">
-        <img src="/images/linkedin.svg" height="35"/><p>Linked In</p>
-    </a>
-</code>
-<code>
-    <a href="https://www.facebook.com/profile.php?id=100063400883969">
-        <img src="" height="35" /><p>Facebook</p>
-    </a>
-</code>
+<p align="center">
+    <code><a href="https://www.linkedin.com/in/gabriel-aldous/"><img src="/images/linkedin.svg" height="35"/></a></code>
+    <code><a href="https://www.facebook.com/profile.php?id=100063400883969"><img src="" height="35" /></a></code>
+</p>
