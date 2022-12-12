@@ -5,7 +5,16 @@
     My interests lie in C++, Unity/Unreal and Web development.
 </p>
 
-# 🔧 Currently Working On
+# 🔧 What I'm Up To
+
+I'm Currently...
+<code>Working on an Express backend server template for use in future projects.</code>
+
+Future Plans Include...
+Implementing an HTTP server using C++ sockets.
+Implementing a timer based event's library for Arduino boards.
+Participating in some GameJams using Unity.
+
 
 # 🎯 Technical Skill Set
 
