@@ -9,13 +9,13 @@
 
 **I'm Currently...**
 
-<code>Working on an Express backend server template for use in future projects.</code>
+`Updating my C++ based text editor called MANDATE.`
 
 **Future Plans Include...**
 
 1. `Implementing an HTTP server using C++ sockets.`
-2. `Implementing a timer based events library for Arduino boards.`
-3. `Participating in some GameJams using Unity.`
+2. `Improving my Express backend server template for use in future projects.`
+3. `Participating in some GameJams & learning VR development using Unity.`
 
 # 🎯 Technical Skill Set
 
