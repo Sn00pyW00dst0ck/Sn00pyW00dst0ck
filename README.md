@@ -1,21 +1,23 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a computer science student in his senior year at the University of Florida. 
-    My interests lie in C++, Unity/Unreal, and Web development.
+    Hello there! I'm Gabriel, a computer science student in his senior year at the University of Florida, who plans to add a mathematics minor after this fall. 
+    My interests lie in anything CS related, but mostly in C++, Unity/Unreal, and Web development.
 </p>
 
 # 🔧 What I'm Up To
 
 **I'm Currently...**
 
-<code>Working on an Express backend server template for use in future projects.</code>
+`Participating in the Chess Coding Challenge by Sebastian Lague`
 
 **Future Plans Include...**
 
-1. `Implementing an HTTP server using C++ sockets.`
-2. `Implementing a timer based events library for Arduino boards.`
-3. `Participating in some GameJams using Unity.`
+1. `Updating my C++ based text editor called MANDATE.`
+2. `Working to improve SNAP, a RegShot clone with config file support, so that the repository can be made public.`
+3. `Adding more extensive unit tests to my Carpool-Creator.`
+4. `Trying not to be overwhelmed by my course load.`
+5. `Improving my Express backend server template for use in future projects.`
 
 # 🎯 Technical Skill Set
 
