@@ -30,6 +30,7 @@
     <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="35"/></a></code>
     <code><a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="35"/></a></code>
     <code><a href="https://www.arduino.cc/"><img src="/images/Arduino.png" alt="Arduino" height="35"/></a></code>
+    <code><a href="https://angular.io/"><img src="/images/Angular.png" alt="Angular" height="35"/></a></code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
