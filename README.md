@@ -28,6 +28,7 @@
     <code><a href="https://angular.io/"><img src="/images/Angular.png" alt="Angular" height="35"/></a></code>
     <code><a href="https://www.python.org/"><img src="/images/python.png" alt="Python" height="35"/></a></code>
     <code><a href="https://www.java.com/en/"><img src="/images/Java.png" alt="Java" height="35"/></a></code>
+    </br>
     <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="35"/></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="35"/></a></code>
     <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="35"/></a></code>
@@ -42,7 +43,7 @@
 <p align="center">
     <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="35"/></a></code>
     <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="/images/CSharp.png" alt="CSharp" height="35"/></a></code>
-    <code><a href="https://www.docker.com/"><img src="/images/Docker.png" alt="Docker" height="35"/></a></code>
+    <code><a href="https://www.docker.com/"><img src="/images/Docker.svg" alt="Docker" height="35"/></a></code>
 </p>
 
 # 📊 GitHub Stats
