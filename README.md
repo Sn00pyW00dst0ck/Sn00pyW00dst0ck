@@ -1,23 +1,22 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a computer science student in his senior year at the University of Florida, who plans to add a mathematics minor after this fall. 
-    My interests lie in anything CS related, but mostly in C++, Unity/Unreal, and Web development.
+    Hello there! I'm Gabriel, a Computer Science student in his senior year at the University of Florida, who plans to add a mathematics minor after this fall. 
+    My interests lie in anything CS related, but mostly in web development, virtual reality, and cybersecurity.
 </p>
 
 # 🔧 What I'm Up To
 
 **I'm Currently...**
 
-`Participating in the Chess Coding Challenge by Sebastian Lague`
+1. `Completing applications for graudate schools.`
+2. `Working to improve and document SNAP, a RegShot clone with config file support, so that the project can be made open source.`
 
-**Future Plans Include...**
+**My Future Plans Include...**
 
-1. `Updating my C++ based text editor called MANDATE.`
-2. `Working to improve SNAP, a RegShot clone with config file support, so that the repository can be made public.`
-3. `Adding more extensive unit tests to my Carpool-Creator.`
-4. `Trying not to be overwhelmed by my course load.`
-5. `Improving my Express backend server template for use in future projects.`
+1. `Adding more extensive unit tests to my Carpool-Creator.`
+2. `Preparing a custom gravity asset to be uploaded to the Unity Asset Store.`
+3. `Improving my Express backend server template for use in future projects.`
 
 # 🎯 Technical Skill Set
 
@@ -26,20 +25,25 @@
     <code><a href="https://html5.org/"><img src="/images/html5.svg" alt="HTML" height="35"/></a></code>
     <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="/images/css.svg" alt="CSS" height="35"/></a></code>
     <code><a href="https://www.javascript.com/"><img src="/images/javascript.svg" alt="JavaScript" height="35"/></a></code>
+    <code><a href="https://angular.io/"><img src="/images/Angular.png" alt="Angular" height="35"/></a></code>
+    <code><a href="https://www.python.org/"><img src="/images/python.png" alt="Python" height="35"/></a></code>
+    <code><a href="https://www.java.com/en/"><img src="/images/Java.png" alt="Java" height="35"/></a></code>
+    </br>
     <code><a href="https://code.visualstudio.com/"><img src="/images/vscode.png" alt="VS Code" height="35"/></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img src="/images/visualstudio.png" alt="Visual Studio" height="35"/></a></code>
-    <code><a href="https://www.jetbrains.com/clion/"><img src="/images/Clion.png" alt="CLion" height="35"/></a></code>
     <code><a href="https://github.com/"><img src="/images/github.svg" alt="GitHub" height="35"/></a></code>
     <code><a href="https://www.linuxfoundation.org/"><img src="/images/linux.svg" alt="Linux" height="35"/></a></code>
     <code><a href="https://www.arduino.cc/"><img src="/images/Arduino.png" alt="Arduino" height="35"/></a></code>
-    <code><a href="https://angular.io/"><img src="/images/Angular.png" alt="Angular" height="35"/></a></code>
+    <code><a href="https://www.atlassian.com/software/jira"><img src="/images/JIRA.png" alt="JIRA" height="35"/></a></code>
+    <code><a href="https://ghidra-sre.org/"><img src="/images/Ghidra.png" alt="Ghidra" height="35"/></a></code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
 
 <p align="center">
     <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="35"/></a></code>
-    <code><a href="https://www.python.org/"><img src="/images/python.png" alt="Python" height="35"/></a></code>
+    <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="/images/CSharp.png" alt="CSharp" height="35"/></a></code>
+    <code><a href="https://www.docker.com/"><img src="/images/Docker.svg" alt="Docker" height="35"/></a></code>
 </p>
 
 # 📊 GitHub Stats
