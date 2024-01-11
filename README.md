@@ -1,7 +1,7 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a Computer Science student in his senior year at the University of Florida, who plans to add a mathematics minor after this fall. 
+    Hello there! I'm Gabriel, a Computer Science student in his senior year at the University of Florida, who recently added a minor in mathematics.
     My interests lie in anything CS related, but mostly in web development, virtual reality, and cybersecurity.
 </p>
 
