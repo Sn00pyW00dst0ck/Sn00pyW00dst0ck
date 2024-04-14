@@ -1,7 +1,8 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a Computer Science student in his senior year at the University of Florida, who plans to add a mathematics minor after this fall. 
+    Hello there! I'm Gabriel, a Computer Science Major and Mathematics Minor at the University of Florida. I'm entering UF's 
+    Masters program studying Computer Science in the fall.
     My interests lie in anything CS related, but mostly in web development, virtual reality, and cybersecurity.
 </p>
 
@@ -9,14 +10,13 @@
 
 **I'm Currently...**
 
-1. `Completing applications for graudate schools.`
+1. `Contributing to A+chiever, a non-linear online learning platform.`
 2. `Working to improve and document SNAP, a RegShot clone with config file support, so that the project can be made open source.`
+3. `Celebrating the successful completion of SwampCTF 2024!`
 
 **My Future Plans Include...**
 
-1. `Adding more extensive unit tests to my Carpool-Creator.`
-2. `Preparing a custom gravity asset to be uploaded to the Unity Asset Store.`
-3. `Improving my Express backend server template for use in future projects.`
+1. `Preparing a custom gravity asset to be uploaded to the Unity Asset Store.`
 
 # 🎯 Technical Skill Set
 
