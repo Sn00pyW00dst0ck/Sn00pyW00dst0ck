@@ -1,8 +1,7 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a Computer Science Major and Mathematics Minor at the University of Florida. I'm entering UF's 
-    Masters program studying Computer Science in the fall.
+    Hello there! I'm Gabriel, a recent UF Computer Science graduate who is entering UF's Computer Science Masters program in the fall. 
     My interests lie in anything CS related, but mostly in web development, virtual reality, and cybersecurity.
 </p>
 
@@ -10,9 +9,9 @@
 
 **I'm Currently...**
 
-1. `Contributing to A+chiever, a non-linear online learning platform.`
-2. `Working to improve and document SNAP, a RegShot clone with config file support, so that the project can be made open source.`
-3. `Celebrating the successful completion of SwampCTF 2024!`
+1. `Perfomring minor updates to ngx-loom, so that version 1.0.0 can be published soon.`
+2. `Working to improve and document SNAP's user interface so that the project can be made open source.`
+3. `Setting up Obsidian and migrating notes from my undergrad in preparation for grad school.`
 
 **My Future Plans Include...**
 
