@@ -1,8 +1,7 @@
 <img src="/images/Simple Technology LinkedIn Banner.png" alt="Header Image, Gabriel Aldous - Computer Science Student" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 <p align="center">
-    Hello there! I'm Gabriel, a recent UF Computer Science graduate who is entering UF's Computer Science Masters program in the fall. 
-    My interests lie in anything CS related, but mostly in web development, virtual reality, and cybersecurity.
+    Hello there! I'm Gabriel, a recent UF Computer Science graduate who just finished his Master's program. I have experience in security, computational geometry, and programming language translation work.
 </p>
 
 # 🔧 What I'm Up To
@@ -10,12 +9,13 @@
 **I'm Currently...**
 
 1. `Perfomring minor updates to ngx-loom, so that version 1.0.0 can be published soon.`
-2. `Working to improve and document SNAP's user interface so that the project can be made open source.`
-3. `Setting up Obsidian and migrating notes from my undergrad in preparation for grad school.`
+2. `Creating a soon to be open source repository of Obsidian notes from my time at UF.`
+3. `Preparing CTF challenges for SwampCTF 2026.`
+4. `Working on a Unity roguelike card battler game for fun, with hopes of releasing it on Steam someday.`
 
 **My Future Plans Include...**
 
-1. `Preparing a custom gravity asset to be uploaded to the Unity Asset Store.`
+1. `Preparing my custom gravity asset to be uploaded to the Unity Asset Store.`
 
 # 🎯 Technical Skill Set
 
@@ -35,6 +35,7 @@
     <code><a href="https://www.arduino.cc/"><img src="/images/Arduino.png" alt="Arduino" height="35"/></a></code>
     <code><a href="https://www.atlassian.com/software/jira"><img src="/images/JIRA.png" alt="JIRA" height="35"/></a></code>
     <code><a href="https://ghidra-sre.org/"><img src="/images/Ghidra.png" alt="Ghidra" height="35"/></a></code>
+    <code><a href="https://www.docker.com/"><img src="/images/Docker.svg" alt="Docker" height="35"/></a></code>
 </p>
 
 # 👨‍💻 Technologies I'm Learning
@@ -42,7 +43,6 @@
 <p align="center">
     <code><a href="https://unity.com/"><img src="/images/unity.svg" alt="Unity" height="35"/></a></code>
     <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="/images/CSharp.png" alt="CSharp" height="35"/></a></code>
-    <code><a href="https://www.docker.com/"><img src="/images/Docker.svg" alt="Docker" height="35"/></a></code>
 </p>
 
 # 📊 GitHub Stats
